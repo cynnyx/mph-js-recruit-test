@@ -21,9 +21,9 @@ You should show a queue with some videos with the following features:
 ### Tech requirements
 - You can use Angular / React / Vue.js or any other MVC framework.
 - You can use every html5 features.
-- Beauty matter! Style your page with a nice WebApp design.
 
 ### Bouns for 
+- Beauty matter! Style your page with a nice WebApp design.
 - Well designed interfaces.
 - ES6+ goodies.
 - Responsive design.
